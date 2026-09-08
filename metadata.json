@@ -1,0 +1,6 @@
+{
+  "name": "AbastecPro - Sistema de Abastecimento",
+  "description": "Especificação completa, gerador de prompts para IA e simulador prático de abastecimento da produção industrial e logística interna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
